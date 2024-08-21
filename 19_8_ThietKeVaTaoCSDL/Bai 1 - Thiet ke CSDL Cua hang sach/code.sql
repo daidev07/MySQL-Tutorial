@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS mysqltutorial;
-USE mysqltutorial;
+CREATE DATABASE IF NOT EXISTS CSDLQuanlysach;
+USE CSDLQuanlysach;
 
 -- Tạo bảng Tác Giả
 CREATE TABLE tac_gia (
